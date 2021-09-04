@@ -1,0 +1,8 @@
+*.xml
+*.idea
+/JS
+/NET
+/CONTRIBUTORS
+/target
+*.iml
+
